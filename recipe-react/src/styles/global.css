@@ -1,0 +1,5 @@
+/* Normalize.css — helps reset browser defaults */
+@import './normalize.css';
+
+/* Main styles */
+@import './main.css';
